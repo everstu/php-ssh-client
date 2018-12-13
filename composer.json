@@ -1,7 +1,7 @@
 {
     "name": "wengheng/php-ssh2-client",
     "description": "A ssh client for PHP",
-    "license": "MIT License",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "wengheng",
