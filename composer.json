@@ -1,5 +1,5 @@
 {
-    "name": "wengheng/php-ssh2-client",
+    "name": "wengheng/php-ssh-client",
     "description": "A ssh client for PHP",
     "license": "Apache-2.0",
     "authors": [
